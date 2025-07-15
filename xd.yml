@@ -1,0 +1,2 @@
+- name: Discord Notification
+  uses: tenzin1308/discord-notification@v1.0.0
