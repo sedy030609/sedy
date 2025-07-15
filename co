@@ -1,0 +1,4 @@
+echo "Druhá změna" >> readme.md
+git add .
+git commit -m "edit - Adamkoobby"
+git push
